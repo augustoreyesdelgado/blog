@@ -17,6 +17,8 @@ body
     color: rgb(0, 138, 23);
     background-color: black;
     box-shadow: black;
+    
     text-align: center;
     border: 3px solid beige;
+    height: 20%;
 }
