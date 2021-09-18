@@ -1,6 +1,6 @@
 body
 {
-    color: rgb(2, 27, 248);
+    color: rgb(211, 2, 248);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -14,7 +14,8 @@ body
 }
 #cabezera{
     width: 100%;
-    color: chartreuse;
+    color: rgb(0, 138, 23);
+    background-color: black;
     box-shadow: black;
     text-align: center;
     border: 3px solid beige;
